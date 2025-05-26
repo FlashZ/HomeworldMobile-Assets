@@ -15,7 +15,7 @@ jobs:
         run: |
           zip -r HWMobile_Assets_${{ github.event.release.tag_name }}.zip Assets
 
-      - name: Upload HWMobile_Assets ZIP
+      - name: Upload Assets ZIP
         uses: softprops/action-gh-release@v1
         with:
           files: HWMobile_Assets_${{ github.event.release.tag_name }}.zip
