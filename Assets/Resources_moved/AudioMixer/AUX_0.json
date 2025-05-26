@@ -1,0 +1,44 @@
+{
+	"m_AudioMixer": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 3875159415753702207 },
+	"m_BypassEffects": false,
+	"m_Children": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -7752088067889726657 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -5090781184993035457 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 6085415907375610687 }
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 114 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 2346624762,
+		"m_Data_1_": 1169945209,
+		"m_Data_2_": 4049764788,
+		"m_Data_3_": 2953002406
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "AUX",
+	"m_Pitch": {
+		"m_Data_0_": 4133649130,
+		"m_Data_1_": 1094750889,
+		"m_Data_2_": 72913812,
+		"m_Data_3_": 2548442574
+	},
+	"m_PrefabAsset": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 3798770767,
+		"m_Data_1_": 1219888635,
+		"m_Data_2_": 2547446952,
+		"m_Data_3_": 930742498
+	}
+}

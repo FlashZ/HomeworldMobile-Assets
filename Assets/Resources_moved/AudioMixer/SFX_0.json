@@ -1,0 +1,48 @@
+{
+	"m_AudioMixer": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 3875159415753702207 },
+	"m_BypassEffects": false,
+	"m_Children": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -732989166812628161 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -6164270685568074945 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -625143660621694145 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 6024131854877031231 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -2936374171255145665 }
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 61 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 62 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 63 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 488452778,
+		"m_Data_1_": 1649023417,
+		"m_Data_2_": 2286849206,
+		"m_Data_3_": 716622779
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "SFX",
+	"m_Pitch": {
+		"m_Data_0_": 2817048796,
+		"m_Data_1_": 1269969163,
+		"m_Data_2_": 1758769579,
+		"m_Data_3_": 1620374234
+	},
+	"m_PrefabAsset": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 3831464313,
+		"m_Data_1_": 1194172848,
+		"m_Data_2_": 2132990904,
+		"m_Data_3_": 1561878222
+	}
+}

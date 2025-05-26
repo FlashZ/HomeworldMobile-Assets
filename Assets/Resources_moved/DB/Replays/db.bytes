@@ -1,0 +1,210 @@
+{
+  "Database": [
+    {
+      "$type": "Quantum.NavMeshAgentConfig, quantum.core",
+      "Radius": {
+        "RawValue": 32768
+      },
+      "Speed": {
+        "RawValue": 229376
+      },
+      "AngularSpeed": {
+        "RawValue": 131072
+      },
+      "Acceleration": {
+        "RawValue": 524288
+      },
+      "Epsilon": {
+        "RawValue": 32768
+      },
+      "Priority": 0,
+      "UsePhysics": true,
+      "DynamicLineOfSight": false,
+      "AllowFlockBehavior": false,
+      "ShowDebug": false,
+      "Identifier": {
+        "Guid": "$DEFAULT_NAVMESH_AGENT"
+      },
+      "Id": 1,
+      "Guid": "$DEFAULT_NAVMESH_AGENT"
+    },
+    {
+      "$type": "Quantum.PhysicsMaterial, quantum.core",
+      "Drag": {
+        "RawValue": 0
+      },
+      "DragAngular": {
+        "RawValue": 0
+      },
+      "Restitution": {
+        "RawValue": 6553
+      },
+      "FrictionStatic": {
+        "RawValue": 26214
+      },
+      "FrictionDynamic": {
+        "RawValue": 26214
+      },
+      "RotationFreeze": false,
+      "AllowSleeping": false,
+      "Identifier": {
+        "Guid": "$DEFAULT_PHYSICS_MATERIAL"
+      },
+      "Id": 2,
+      "Guid": "$DEFAULT_PHYSICS_MATERIAL"
+    },
+    {
+      "$type": "Quantum.SimulationConfig, quantum.state",
+      "Physics": {
+        "Gravity": {
+          "X": {
+            "RawValue": 0
+          },
+          "Y": {
+            "RawValue": 0
+          },
+          "Z": {
+            "RawValue": 0
+          }
+        },
+        "SolverIterations": 4,
+        "Substeps": 1,
+        "UseAngularVelocity": true,
+        "UseVerticalTransform": false,
+        "RaiseCollisionEventsForStatics": false,
+        "IsMultithreaded": false,
+        "PenetrationAllowance": {
+          "RawValue": 655
+        },
+        "PenetrationCorrection": {
+          "RawValue": 32768
+        },
+        "MinLinearIntegration": {
+          "RawValue": 0
+        },
+        "AllowSleeping": false,
+        "UseIslandsForSleepDetection": false,
+        "SleepTimeSec": {
+          "RawValue": 32768
+        },
+        "LinearSleepTolerance": {
+          "RawValue": 1310
+        },
+        "AngularSleepToleranceInRad": {
+          "RawValue": 2286
+        },
+        "DefaultPhysicsMaterial": {
+          "Guid": "$DEFAULT_PHYSICS_MATERIAL"
+        },
+        "Layers": [
+          "Default",
+          "TransparentFX",
+          "Ignore Raycast",
+          "",
+          "Water",
+          "UI",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "LayerMatrix": [
+          -257,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      "NavMeshAgent": {
+        "ProximityFactor": 8,
+        "UpdateInterval": 1,
+        "DefaultNavMeshAgent": {
+          "Guid": "$DEFAULT_NAVMESH_AGENT"
+        }
+      },
+      "AutoLoadSceneFromMap": true,
+      "DeltaTimeType": 0,
+      "UsePredictionArea": false,
+      "Identifier": {
+        "Guid": "59fa78cd-0486-4d62-81bb-201580e3e6f6"
+      },
+      "Id": 3,
+      "Guid": "59fa78cd-0486-4d62-81bb-201580e3e6f6"
+    },
+    {
+      "$type": "Quantum.Map, quantum.core",
+      "UserAsset": {
+        "Guid": ""
+      },
+      "Scene": "Game",
+      "GridSize": 4,
+      "GridNodeSize": 2,
+      "StaticColliders": [],
+      "StaticColliders3D": [],
+      "NavMeshLinks": [],
+      "Identifier": {
+        "Guid": "map1"
+      },
+      "Id": 4,
+      "Guid": "map1"
+    },
+    {
+      "$type": "Quantum.EntityPrefab, quantum.core",
+      "Identifier": {
+        "Guid": "Spaceship"
+      },
+      "Id": 5,
+      "Guid": "Spaceship"
+    }
+  ]
+}

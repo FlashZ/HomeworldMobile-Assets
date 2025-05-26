@@ -1,0 +1,279 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 1681369793,
+					"m_Data_1_": 1397647275,
+					"m_Data_2_": 3531763072,
+					"m_Data_3_": 59708758
+				},
+				{
+					"m_Data_0_": 1934776839,
+					"m_Data_1_": 1648924367,
+					"m_Data_2_": 1589655,
+					"m_Data_3_": 434214372
+				},
+				{
+					"m_Data_0_": 3573605971,
+					"m_Data_1_": 1228655090,
+					"m_Data_2_": 2343564945,
+					"m_Data_3_": 1350315398
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 2041443463697023790 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 1431741223,
+				"m_Data_1_": 1447503065,
+				"m_Data_2_": 1184547774,
+				"m_Data_3_": 503864154
+			},
+			{
+				"m_Data_0_": 1517665820,
+				"m_Data_1_": 1139044406,
+				"m_Data_2_": 2951014048,
+				"m_Data_3_": 3553676323
+			},
+			{
+				"m_Data_0_": 3842080648,
+				"m_Data_1_": 3712215670,
+				"m_Data_2_": 1602528949,
+				"m_Data_3_": 1011680402
+			},
+			{
+				"m_Data_0_": 603271052,
+				"m_Data_1_": 1308943553,
+				"m_Data_2_": 611404433,
+				"m_Data_3_": 954986137
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [
+					6,
+					7,
+					8
+				],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 10,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 1,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					9
+				],
+				"m_PrevEffectIndex": 2,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 22,
+				"m_WetMixLevelIndex": 4294967295
+			}
+		],
+		"m_ExposedParameterIndices": [],
+		"m_ExposedParameterNames": [],
+		"m_GroupConnections": [
+			{
+				"m_SendEffectIndex": 4294967295,
+				"m_SourceGroupIndex": 1,
+				"m_TargetGroupIndex": 0
+			},
+			{
+				"m_SendEffectIndex": 4294967295,
+				"m_SourceGroupIndex": 2,
+				"m_TargetGroupIndex": 0
+			}
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 1681369793,
+				"m_Data_1_": 1397647275,
+				"m_Data_2_": 3531763072,
+				"m_Data_3_": 59708758
+			},
+			{
+				"m_Data_0_": 1934776839,
+				"m_Data_1_": 1648924367,
+				"m_Data_2_": 1589655,
+				"m_Data_3_": 434214372
+			},
+			{
+				"m_Data_0_": 3573605971,
+				"m_Data_1_": 1228655090,
+				"m_Data_2_": 2343564945,
+				"m_Data_3_": 1350315398
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAE11c2ljIC0gUm9hbQBNdXNpYyAtIEJhdHRsZS9UdXRvcmlhbAAA",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 3,
+				"m_Solo": false,
+				"m_VolumeIndex": 2
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 4
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 702646409,
+				"m_Data_1_": 1531706780,
+				"m_Data_2_": 2141811878,
+				"m_Data_3_": 2821852405
+			},
+			{
+				"m_Data_0_": 2892917362,
+				"m_Data_1_": 3326492864,
+				"m_Data_2_": 1889347486,
+				"m_Data_3_": 495432549
+			},
+			{
+				"m_Data_0_": 509010046,
+				"m_Data_1_": 2034721268,
+				"m_Data_2_": 1673029788,
+				"m_Data_3_": 2316201656
+			},
+			{
+				"m_Data_0_": 1985916506,
+				"m_Data_1_": 3343500450,
+				"m_Data_2_": 1824219062,
+				"m_Data_3_": 35320937
+			}
+		],
+		"m_SnapshotNameBuffer": "U3Rhcm1hcABNdWx0aVBsYXllcgBTZW5zb3JNYW5hZ2VyAFNlcXVlbmNlAAA=",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 376055488,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					-9.342176,
+					1,
+					-80,
+					1,
+					-80,
+					1,
+					8000,
+					1,
+					1,
+					1000
+				]
+			},
+			{
+				"m_NameHash": 3291451844,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					-26.998817,
+					1,
+					-13.87849,
+					1,
+					-18.351381,
+					1,
+					20,
+					5,
+					0.9,
+					70
+				]
+			},
+			{
+				"m_NameHash": 3510869571,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					-30,
+					1,
+					-13.88,
+					1,
+					-18.35,
+					1,
+					20,
+					5,
+					0.9,
+					70
+				]
+			},
+			{
+				"m_NameHash": 2884679037,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					-80,
+					1,
+					-80,
+					1,
+					-80,
+					1,
+					8000,
+					1,
+					1,
+					1000
+				]
+			}
+		]
+	},
+	"m_Name": "AudioMixer_MUSIC",
+	"m_OutputGroup": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -2093020907187832001 },
+	"m_PrefabAsset": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -1973287029772958930 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -4232478926758984914 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 6213239333820384046 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -2629881413458115794 }
+	],
+	"m_StartSnapshot": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -4232478926758984914 },
+	"m_SuspendThreshold": -50,
+	"m_TargetSnapshot": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": -4232478926758984914 },
+	"m_UpdateMode": 0
+}

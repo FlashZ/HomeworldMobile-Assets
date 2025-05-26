@@ -1,0 +1,46 @@
+{
+	"m_AudioMixer": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 6479505837148801107 },
+	"m_BypassEffects": false,
+	"m_Children": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 5901914991007172691 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 6550210599607142483 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 8194989264509864019 }
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 118 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 119 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 120 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 1681369793,
+		"m_Data_1_": 1397647275,
+		"m_Data_2_": 3531763072,
+		"m_Data_3_": 59708758
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Master",
+	"m_Pitch": {
+		"m_Data_0_": 1114322023,
+		"m_Data_1_": 1321616766,
+		"m_Data_2_": 3703057323,
+		"m_Data_3_": 2740900603
+	},
+	"m_PrefabAsset": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 2356277120,
+		"m_Data_1_": 1244829268,
+		"m_Data_2_": 190854050,
+		"m_Data_3_": 4081076292
+	}
+}

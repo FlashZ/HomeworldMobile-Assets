@@ -1,0 +1,43 @@
+{
+	"m_AudioMixer": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 3875159415753702207 },
+	"m_BypassEffects": false,
+	"m_Children": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 4355346980251204415 }
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 105 },
+		{ "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 106 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 1363711311,
+		"m_Data_1_": 1154429180,
+		"m_Data_2_": 1364079014,
+		"m_Data_3_": 557387395
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Para mix",
+	"m_Pitch": {
+		"m_Data_0_": 2336720622,
+		"m_Data_1_": 1140948229,
+		"m_Data_2_": 1302916513,
+		"m_Data_3_": 341311124
+	},
+	"m_PrefabAsset": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d79f210daab0cafaf68b4a18e5160391", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 2405171737,
+		"m_Data_1_": 1153560277,
+		"m_Data_2_": 1533982880,
+		"m_Data_3_": 768515042
+	}
+}
