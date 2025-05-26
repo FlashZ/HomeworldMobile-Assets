@@ -1,0 +1,27 @@
+name: 📦 Package Assets
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  zip-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Zip Assets
+        run: |
+          zip -r HWMobile_Assets_${{ github.event.release.tag_name }}.zip HWMobile_Assets
+
+      - name: Upload HWMobile_Assets ZIP
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./HWMobile_Assets_${{ github.event.release.tag_name }}.zip
+          asset_name: HWMobile_Assets_${{ github.event.release.tag_name }}.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
