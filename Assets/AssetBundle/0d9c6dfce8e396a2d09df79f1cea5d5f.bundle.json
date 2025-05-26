@@ -1,0 +1,41 @@
+{
+	"m_AssetBundleName": "0d9c6dfce8e396a2d09df79f1cea5d5f.bundle",
+	"m_Container": {
+		"Assets/Art/Textures/Planets/Clouds_a/cloudmap_a_cloudmap.png": {
+			"m_Asset": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 2607955234900247346 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Clouds_a/cloudmap_a_eqrc_normal.png": {
+			"m_Asset": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 3538596377046250669 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Clouds_a/cloudmap_a_plnr_normal.png": {
+			"m_Asset": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": -5389446659540859360 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "0d9c6dfce8e396a2d09df79f1cea5d5f.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 2607955234900247346 },
+		{ "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": -5389446659540859360 },
+		{ "m_Collection": "cab-9c0a1006a49945850874c97d12ff5403", "m_PathID": 3538596377046250669 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

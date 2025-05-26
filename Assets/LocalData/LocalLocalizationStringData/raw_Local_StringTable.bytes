@@ -1,0 +1,1242 @@
+[
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "en",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "en"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "de",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "de"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "es",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "es"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "fr",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "fr"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "it",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "it"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "ru",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "ru"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "jp",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "jp"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "kr",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "kr"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "zh-CN",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "zh-CN"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "pl-PL",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "pl-PL"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "pt-BR",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "pt-BR"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "tr",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "tr"
+  },
+  {
+    "UniqueId": "UniqueId",
+    "LanguageCode": "uk",
+    "Ignore": "Ignore",
+    "State": "#State",
+    "LocaState": "#LocaState",
+    "Text": "uk"
+  },
+  {
+    "UniqueId": "localNimbusLocaVersion",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "DoNotLoca",
+    "Text": "Local Loca v1.9"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile requires downloading <color=#FBB03F>{0}</color> of additional data. Start download now?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile erfordert den Download von <color=#FBB03F>{0}</color> zusätzlichen Daten. Download beginnen?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile necesita descargar <color=#FBB03F>{0}</color> de datos adicionales. ¿Comenzar la descarga ahora?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile nécessite le téléchargement de <color=#FBB03F>{0}</color> données supplémentaires. Commencer le téléchargement ?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile deve scaricare <color=#FBB03F>{0}</color> di dati aggiuntivi. Avviare il download?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Для запуска Homeworld Mobile требуется загрузить <color=#FBB03F>{0}</color> дополнительных данных. Начать загрузку?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobileは<color=#FBB03F>{0}</color>の追加データのダウンロードを必要とします。今すぐダウンロードを開始しますか？"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "홈월드 모바일에서 <color=#FBB03F>{0}</color>의 추가 데이터를 다운로드해야 합니다. 지금 다운로드를 시작할까요?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "《家园》移动版需要下载<color=#FBB03F>{0}</color>的额外数据。立即开始下载？"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile wymaga pobrania <color=#FBB03F>{0}</color> dodatkowych danych. Chcesz rozpocząć pobieranie?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "O Homeworld Mobile precisa baixar <color=#FBB03F>{0}</color> de dados adicionais. Iniciar o download agora?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Homeworld Mobile için <color=#FBB03F>{0}</color> ek verinin indirilmesi gerekiyor. İndirme şimdi başlasın mı?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmationInfo",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Гра Homeworld Mobile потребує завантаження <color=#FBB03F>{0}</color> додаткових даних. Почати завантаження зараз?"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Download"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Download"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Descargar"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Télécharger"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Scarica"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Загрузить"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "ダウンロード"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "다운로드"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "下载"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Pobierz"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Baixar"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "İndir"
+  },
+  {
+    "UniqueId": "downloadRequired_confirmButton",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Завантажити"
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Download is running.\nHomeworld Mobile will start once the download is completed."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Download läuft.\nHomeworld Mobile startet, sobald der Download abgeschlossen wurde."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "La descarga está en curso.\nHomeworld Mobile comenzará una vez que se complete la descarga."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Téléchargement en cours.\nHomeworld Mobile démarrera une fois le téléchargement terminé."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Download in corso.\nHomeworld Mobile si avvierà al completamento."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Идет загрузка данных.\nHomeworld Mobile запустится по завершении загрузки."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "ダウンロード中。\nダウンロードが完了すると、Homeworld Mobileが起動します。"
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "다운로드 중입니다.\n다운로드가 완료되면 홈월드 모바일이 시작됩니다."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "下载正在进行。\n《家园》移动版将在下载完成后立即启动。"
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Pobieranie w toku.\nHomeworld Mobile uruchomi się po zakończeniu pobierania."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "O download está em execução.\nAssim que o download for concluído, o Homeworld Mobile iniciará."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "İndirme işlemi devam ediyor.\nHomeworld Mobile indirme işlemi tamamlandığında başlatılacak."
+  },
+  {
+    "UniqueId": "downloadRequired_runningInfo",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Триває завантаження.\nHomeworld Mobile запуститься після завершення завантаження."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Failed to download the required data."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Die benötigten Daten konnten nicht heruntergeladen werden."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Error al descargar los datos necesarios."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Échec du téléchargement."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Impossibile scaricare i dati richiesti."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Не удалось загрузить необходимые данные."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "必要なデータのダウンロードに失敗しました。"
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "필수 데이터를 다운로드하지 못했습니다."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "未能下载所需数据。"
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Nie udało się pobrać potrzebnych danych."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Falha ao baixar os dados necessários."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Gerekli veri indirilemedi."
+  },
+  {
+    "UniqueId": "downloadRequired_failedInfo",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Не вдалося завантажити потрібні дані."
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Retry"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Erneut versuchen"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Reintentar"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Réessayer"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Riprova"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Повторить"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "再試行"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "재시도"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "重试"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Spróbuj ponownie"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Tentar de novo"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Yeniden Dene"
+  },
+  {
+    "UniqueId": "downloadRequired_failedButton",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "New",
+    "LocaState": "Localized",
+    "Text": "Повторити спробу."
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Yes"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Ja"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Sí"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Oui"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Sì"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Да"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "はい"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "예"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "是"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Tak"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Sim"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Evet"
+  },
+  {
+    "UniqueId": "yes",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Так"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "No"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Nein"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "No"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Non"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "No"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Нет"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "いいえ"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "아니오"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "否"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Nie"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Não"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Hayır"
+  },
+  {
+    "UniqueId": "no",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Ні"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Cancel"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Abbrechen"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Cancelar"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Annuler"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Annulla"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Отмена"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "キャンセル"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "취소"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "取消"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Anuluj"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Cancelar"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "İptal Et"
+  },
+  {
+    "UniqueId": "cancel",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "",
+    "LocaState": "Localized",
+    "Text": "Скасувати"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Are you sure you want to quit the game?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Bist du sicher, dass du das Spiel verlassen willst?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "¿Realmente quieres salir del juego?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Voulez-vous vraiment quitter le jeu ?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Vuoi davvero uscire dal gioco?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Точно выйти из игры?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "本当にゲームを終了してもよろしいですか？"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "정말로 게임을 종료할까요?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "你确定要退出游戏吗？"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Czy na pewno chcesz wyjść z gry?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Sair do jogo?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Oyundan çıkmak istediğine emin misin?"
+  },
+  {
+    "UniqueId": "quitConfirmDesc",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Точно вийти з гри?"
+  },
+  {
+    "UniqueId": "iUnderstand_button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "I understand"
+  },
+  {
+    "UniqueId": "declineAndQuit_button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Decline and Quit"
+  },
+  {
+    "UniqueId": "acceptAndPlay_button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Accept and Play"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Accept"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "de",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Annehmen"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "es",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Aceptar"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "fr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Accepter"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "it",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Accetta"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "ru",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Принять"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "jp",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "受ける"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "kr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "수락하기"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "zh-CN",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "接受"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "pl-PL",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Akceptuj"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "pt-BR",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Aceitar"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "tr",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Kabul Et"
+  },
+  {
+    "UniqueId": "accept",
+    "LanguageCode": "uk",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "Localized",
+    "Text": "Прийняти"
+  },
+  {
+    "UniqueId": "manageDataCollection_Button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Manage data collection"
+  },
+  {
+    "UniqueId": "DMA_DisplayHeader",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Your consent is required for homeworld gameplay"
+  },
+  {
+    "UniqueId": "DMA_DisplayDescription",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Homeworld Mobile requires data collection for gameplay functionality.\n\nReview our <link=\"https://homeworldmobile.com/privacy/\"><color=#FF9900>Privacy Policy</color></link> to learn more about privacy practices.\n\nPlease read our <link=\"https://homeworldmobile.com/terms/\"><color=#FF9900>Terms of Service</color></link> before playing Homeworld Mobile."
+  },
+  {
+    "UniqueId": "DMA_DefaultHWData",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Homeworld Mobile data essential for gameplay"
+  },
+  {
+    "UniqueId": "MarketingTrackingData_Button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "Marketing Data"
+  },
+  {
+    "UniqueId": "AppUsageTrackingData_Button",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "",
+    "Text": "App usage Data"
+  },
+  {
+    "UniqueId": "ptrNDA_header",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "LocaNeeded",
+    "Text": "DISCLOSURE"
+  },
+  {
+    "UniqueId": "ptrNDA_Description",
+    "LanguageCode": "en",
+    "Ignore": "",
+    "State": "DevString",
+    "LocaState": "LocaNeeded",
+    "Text": "“Confidential  Information”  as  used herein means all confidential, trade secret, and proprietary\ninformation relating to Gearbox’s business or assets, including, without limitation, the identities of\ncustomers,  clients  or  licensees,  proprietary  software  code,  progress  of  development,  marketing  plans,\ndesign, development, marketing, and publishing of video games, programs, devices, methods, techniques,\nprocesses, and the like, and any other information whether oral or written which is not generally known\nor  available  to  the  public,  regardless  of  whether  or  not  in  writing  and  regardless  of  the  medium  of\ncommunication of such information.\nAs a condition precedent to accessing and using software and services distributed by Company, including\nthe Test, User agrees to (a) never publicly disclose the Confidential Information of Company, (b) keep the\nConfidential Information of Company secured against unauthorized access, (c) never copy or reproduce\nthe Confidential Information without express permission, and (d) never independently exploit or reverse\nengineer the  Confidential Information. It  is presumed that all information exchanged  between you and\nGearbox is confidential in nature and will be treated as Confidential Information, whether or not reduced\nto writing or designated as confidential. Notwithstanding the foregoing, Confidential Information shall not\ninclude any trade secrets or information which (i) Company voluntarily made publicly known and generally\navailable  in  the  public  domain  prior  to  the  time  of  disclosure;  (ii)  becomes  publicly  known  and  made\ngenerally available after disclosure through no action or inaction  by you in violation of this Agreement;\n(iii) is in your possession, without confidentiality restrictions, at the time of disclosure, as shown by your\nfiles  and  records;  (iv)  is  lawfully  obtained  by  you  from  a  third  party  who  is  not  known  by  you  to  have\nobligations  of  confidentiality  regarding  such  information;  or  (v)  is  independently  developed  by  you\nwithout use of or reference to our Confidential Information, as shown by documents and other competent\nevidence  in  your  possession.  Should  either  party  (or  any  of  such party’s affiliates)  receive  a  request  to\ndisclose any Confidential Information, the party receiving such request(s) shall immediately provide the\nother  party  with  prompt  notice  so  that  appropriate  steps  may  be  taken  to  protect  against  disclosure\nbefore it happens."
+  }
+]

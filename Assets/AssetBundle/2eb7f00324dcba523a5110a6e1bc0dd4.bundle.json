@@ -1,0 +1,47 @@
+{
+	"m_AssetBundleName": "2eb7f00324dcba523a5110a6e1bc0dd4.bundle",
+	"m_Container": {
+		"Assets/Art/Textures/Planets/Dwarf_b/dwarf_b_enh.png": {
+			"m_Asset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": -3312873340572455107 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Dwarf_b/dwarf_b_fpack.png": {
+			"m_Asset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 6467602826825542347 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Dwarf_b/dwarf_b_height.png": {
+			"m_Asset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 803763895028913908 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Dwarf_b/dwarf_b_pnh.png": {
+			"m_Asset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 6670472574101113202 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "2eb7f00324dcba523a5110a6e1bc0dd4.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 803763895028913908 },
+		{ "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": -3312873340572455107 },
+		{ "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 6670472574101113202 },
+		{ "m_Collection": "cab-54c1c2776d1d113e9d05da0f67517b0f", "m_PathID": 6467602826825542347 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

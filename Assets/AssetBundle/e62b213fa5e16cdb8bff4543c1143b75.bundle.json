@@ -1,0 +1,59 @@
+{
+	"m_AssetBundleName": "e62b213fa5e16cdb8bff4543c1143b75.bundle",
+	"m_Container": {
+		"Assets/ProceduralGeneration/AggroCircleIndicator/Meshes/AggroCircleMesh.mesh": {
+			"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -3091341185846099785 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"Assets/ProceduralGeneration/AggroCircleIndicator/Meshes/AggroRingMesh.mesh": {
+			"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -1609298370911826579 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/ProceduralGeneration/AggroCircleIndicator/Meshes/AggroUprightCircleMesh.mesh": {
+			"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 6928439548072652375 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"Assets/ProceduralGeneration/AggroCircleIndicator/Meshes/SensorRangeCylinderDisk.fbx": {
+			"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 7772686484034544216 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 6
+		},
+		"Assets/ProceduralGeneration/AggroCircleIndicator/Meshes/SensorRangeCylinderDisk.fbx": {
+			"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -7775078288545160616 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 6
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 0 },
+	"m_Dependencies": [
+		"cab-3484228bfdd3796700de32ddb8459e36"
+	],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "e62b213fa5e16cdb8bff4543c1143b75.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -1609298370911826579 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -3091341185846099785 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 6928439548072652375 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -3143533405676007804 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -7775078288545160616 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": -4039011574173867432 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 1716038364336677464 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 5180360511059321432 },
+		{ "m_Collection": "cab-828d494b49703ff206e3503dddf299a0", "m_PathID": 7772686484034544216 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

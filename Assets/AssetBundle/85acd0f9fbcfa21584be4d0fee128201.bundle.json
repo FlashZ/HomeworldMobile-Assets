@@ -1,0 +1,37 @@
+{
+	"m_AssetBundleName": "85acd0f9fbcfa21584be4d0fee128201.bundle",
+	"m_Container": {
+		"Assets/Art/Shader/AsteroidShader/AsteroidShader.shader": {
+			"m_Asset": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 1015901435622968594 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Shader/AsteroidShader/BillboardAsteroidShader.shader": {
+			"m_Asset": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": -7340825708168379996 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 2
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "85acd0f9fbcfa21584be4d0fee128201.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": -7340825708168379996 },
+		{ "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 17 },
+		{ "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 1015901435622968594 },
+		{ "m_Collection": "cab-11b5edf5e6248e259ec4e2fa8ae263e9", "m_PathID": 17 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

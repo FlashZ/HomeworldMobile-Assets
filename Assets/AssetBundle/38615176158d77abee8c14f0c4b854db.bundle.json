@@ -1,0 +1,41 @@
+{
+	"m_AssetBundleName": "38615176158d77abee8c14f0c4b854db.bundle",
+	"m_Container": {
+		"Assets/Art/Animation/Animators/HyperjumpController/HyperJump_Gate_01.controller": {
+			"m_Asset": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 4314847149639817966 },
+			"m_PreloadIndex": 4,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Animation/Animators/HyperjumpController/HyperJump_Gate_Static_01.controller": {
+			"m_Asset": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": -6864431757094735829 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 4
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 0 },
+	"m_Dependencies": [
+		"cab-f58bb7fdd824bd8b0af5d934ad0e8d4f"
+	],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "38615176158d77abee8c14f0c4b854db.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": -9100255803160718567 },
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": -6864431757094735829 },
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 3091888396249608235 },
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": -620345900624000653 },
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": 4314847149639817966 },
+		{ "m_Collection": "cab-4e0cd03e4af082868af70e247f8beca8", "m_PathID": -8676013492932120281 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

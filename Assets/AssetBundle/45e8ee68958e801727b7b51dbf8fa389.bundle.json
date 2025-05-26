@@ -1,0 +1,59 @@
+{
+	"m_AssetBundleName": "45e8ee68958e801727b7b51dbf8fa389.bundle",
+	"m_Container": {
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_01_subtitles_01_ani_01.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -3975073685588938863 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_04_subtitles.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 4843600500246095332 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_iliyin_subtitles_ani.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -68898880381439746 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_intro_subtitles_01_ani_01.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -10631819443164910 },
+			"m_PreloadIndex": 5,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_m01_end_subtitles_01_ani_01.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 4074466298699296996 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Animation/Animations/SubtitleAnimation/cinematic_sijin_subtitles_ani.anim": {
+			"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 8618338982572352337 },
+			"m_PreloadIndex": 4,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "45e8ee68958e801727b7b51dbf8fa389.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -68898880381439746 },
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 4843600500246095332 },
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -3975073685588938863 },
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 4074466298699296996 },
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": 8618338982572352337 },
+		{ "m_Collection": "cab-a12315239fd736d069a4f22a4123a42d", "m_PathID": -10631819443164910 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

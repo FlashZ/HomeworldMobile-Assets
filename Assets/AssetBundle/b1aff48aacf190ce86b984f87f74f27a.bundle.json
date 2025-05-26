@@ -1,0 +1,35 @@
+{
+	"m_AssetBundleName": "b1aff48aacf190ce86b984f87f74f27a.bundle",
+	"m_Container": {
+		"Assets/Art/Textures/UI/Alpha/Portraits/Officer/Hiigaran/ui_portrait_pilot_m_05.png": {
+			"m_Asset": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 5141655679614201156 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Textures/UI/Alpha/Portraits/Officer/Hiigaran/ui_portrait_pilot_m_05.png": {
+			"m_Asset": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": -2127131792132985532 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 2
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "b1aff48aacf190ce86b984f87f74f27a.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": -2127131792132985532 },
+		{ "m_Collection": "cab-8d64d20421f2d852d6e5745df82ab3fb", "m_PathID": 5141655679614201156 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

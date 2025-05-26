@@ -1,0 +1,67 @@
+{
+	"m_AssetBundleName": "3c3801b638e83067b0ab5b50f375dba9.bundle",
+	"m_Container": {
+		"Assets/Art/Environment/Props/generic_debris_ship_05_shared/M_debris_ship_05.mat": {
+			"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 6445458153451496701 },
+			"m_PreloadIndex": 10,
+			"m_PreloadSize": 6
+		},
+		"Assets/Art/Environment/Props/generic_debris_ship_05_shared/M_debris_ship_05_a.mat": {
+			"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -8737229062431132799 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 7
+		},
+		"Assets/Art/Environment/Props/generic_debris_ship_05_shared/ship_debris_set_05_ALPHA.png": {
+			"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -2339769832669888548 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Environment/Props/generic_debris_ship_05_shared/ship_debris_set_05_DIFF.png": {
+			"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 523205977687908815 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Environment/Props/generic_debris_ship_05_shared/ship_debris_set_05_NORM.png": {
+			"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -3410412104266099591 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 0 },
+	"m_Dependencies": [
+		"cab-4fa869e31aaf4f1eec826359e0504bfd",
+		"cab-ff44d6a4b14c93237344fd6a49e9dafa"
+	],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "3c3801b638e83067b0ab5b50f375dba9.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 523205977687908815 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -2339769832669888548 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -3410412104266099591 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 3016212248293112763 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -8737229062431132799 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -3410412104266099591 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -2339769832669888548 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 523205977687908815 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 568385971739362428 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 5779091019595905138 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -5908349922155017440 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": -3410412104266099591 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 523205977687908815 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 6445458153451496701 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 568385971739362428 },
+		{ "m_Collection": "cab-987035bb6927401b3427badd78909537", "m_PathID": 5779091019595905138 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

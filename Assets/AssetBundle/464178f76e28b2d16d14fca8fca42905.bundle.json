@@ -1,0 +1,35 @@
+{
+	"m_AssetBundleName": "464178f76e28b2d16d14fca8fca42905.bundle",
+	"m_Container": {
+		"Assets/Art/Textures/Planets/Baked/Dwarf_Icy_A/Dwarf_Icy_A_base.png": {
+			"m_Asset": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": -7558804461797514590 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Textures/Planets/Baked/Dwarf_Icy_A/Dwarf_Icy_A_enh.png": {
+			"m_Asset": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 1006366219481235436 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "464178f76e28b2d16d14fca8fca42905.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": 1006366219481235436 },
+		{ "m_Collection": "cab-c3769e68a92c7284e1bb1e47c00cfe53", "m_PathID": -7558804461797514590 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

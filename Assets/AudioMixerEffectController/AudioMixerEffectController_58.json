@@ -1,0 +1,43 @@
+{
+	"m_Bypass": false,
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_EffectID": {
+		"m_Data_0_": 1986149059,
+		"m_Data_1_": 1275362051,
+		"m_Data_2_": 728752772,
+		"m_Data_3_": 1365789966
+	},
+	"m_EffectName": "Highpass",
+	"m_EnableWetMix": false,
+	"m_HideFlags": 3,
+	"m_MixLevel": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Name": "",
+	"m_Parameters": [
+		{
+			"m_GUID": {
+				"m_Data_0_": 910075015,
+				"m_Data_1_": 1249100908,
+				"m_Data_2_": 744689802,
+				"m_Data_3_": 2702990637
+			},
+			"m_ParameterName": "Param_0"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1915089794,
+				"m_Data_1_": 1133862049,
+				"m_Data_2_": 2419330946,
+				"m_Data_3_": 453638641
+			},
+			"m_ParameterName": "Param_1"
+		}
+	],
+	"m_PrefabAsset": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_SendTarget": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 }
+}

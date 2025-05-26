@@ -1,0 +1,41 @@
+{
+	"m_AssetBundleName": "dee432b8966fb1d84296e1a3aebcdc69.bundle",
+	"m_Container": {
+		"Assets/Art/PrefabTemplates/_Turrets_Fixed_Template.prefab": {
+			"m_Asset": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 6736831444660487198 },
+			"m_PreloadIndex": 4,
+			"m_PreloadSize": 4
+		},
+		"Assets/Art/PrefabTemplates/_Turrets_Turret_Template.prefab": {
+			"m_Asset": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 368234637674771164 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 4
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "dee432b8966fb1d84296e1a3aebcdc69.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 8372177508426873339 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": -76669322050899236 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 368234637674771164 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 1792129233508463324 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 6173610669534777887 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": -3438501213664869346 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 702237992796914718 },
+		{ "m_Collection": "cab-4bd754cc0df07742dd84c0df45858160", "m_PathID": 6736831444660487198 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

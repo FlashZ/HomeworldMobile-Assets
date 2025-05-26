@@ -1,0 +1,192 @@
+{
+	"m_AssetBundleName": "e75f14c4cf2ec2bb151a580126585c88.bundle",
+	"m_Container": {
+		"Assets/Resources_moved/Shaders/ShipShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -5692245376856631627 },
+			"m_PreloadIndex": 24,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/ShipTeamBadgeFadeShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -1096030702100595166 },
+			"m_PreloadIndex": 19,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/ShipTeamBadgeHyperShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 5601916458178139378 },
+			"m_PreloadIndex": 14,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/ShipTeamBadgeShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -4710276889485321332 },
+			"m_PreloadIndex": 5,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/ShipTeamShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -7889582861302770523 },
+			"m_PreloadIndex": 7,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/CameraEffects.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 4762856278283051680 },
+			"m_PreloadIndex": 23,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/CameraEffects2.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -8440974810727350129 },
+			"m_PreloadIndex": 26,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/CameraEffects3.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -9032466798210593988 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/CopySrcToDstDirect.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 6048510220775466076 },
+			"m_PreloadIndex": 27,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/LuTBuilder.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -3440283996054149371 },
+			"m_PreloadIndex": 9,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StratoPostProcess/WideBloom.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 5459562012274727541 },
+			"m_PreloadIndex": 28,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/StrikeCraftFadeTeamShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -2742657935945288043 },
+			"m_PreloadIndex": 21,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/StrikeCraftTeamLODShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 1554148602529588623 },
+			"m_PreloadIndex": 16,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/StrikeCraftTeamShader.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 40683389606083808 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/ApplyBadgeToDiffuse.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 7,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/ApplyStrikecraftTIERtoDiffuse.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 9,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/ApplyTEAMToDiffuse.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 26,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/ApplyTurretTIERtoDiffuse.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/AssembleTierMask.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 19,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/GetAsymetricUV.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 16,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/GetHyperSpaceEffect.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/Subgraphs/GetUVsForTier.asset": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 16,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/TurretTierFadeShader.Shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 366329273493474905 },
+			"m_PreloadIndex": 12,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/TurretTierHyperShader.Shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 8281638857775326719 },
+			"m_PreloadIndex": 10,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/TurretTierShader.Shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 1793844376770624540 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 2
+		},
+		"Assets/Resources_moved/Shaders/UIEffects/UIEffect.cginc": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 3,
+			"m_PreloadSize": 0
+		},
+		"Assets/Resources_moved/Shaders/UIEffects/UIEffect.shader": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -8116980436211678562 },
+			"m_PreloadIndex": 18,
+			"m_PreloadSize": 1
+		},
+		"Assets/Resources_moved/Shaders/UIEffects/UIEffectSprite.cginc": {
+			"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+			"m_PreloadIndex": 9,
+			"m_PreloadSize": 0
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "e75f14c4cf2ec2bb151a580126585c88.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 40683389606083808 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -9032466798210593988 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 1793844376770624540 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -4710276889485321332 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -7889582861302770523 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -3440283996054149371 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 8281638857775326719 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 366329273493474905 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 5601916458178139378 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 1554148602529588623 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -8116980436211678562 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -1096030702100595166 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -2742657935945288043 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 4762856278283051680 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -5692245376856631627 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 17 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": -8440974810727350129 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 6048510220775466076 },
+		{ "m_Collection": "cab-d35beacf9f35085d7e2652142fc86e09", "m_PathID": 5459562012274727541 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

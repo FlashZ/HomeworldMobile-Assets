@@ -1,0 +1,35 @@
+{
+	"m_AssetBundleName": "8b56d387b6e3547168d1e32629e3c6e5.bundle",
+	"m_Container": {
+		"Assets/ProceduralGeneration/Trails/Shaders/TrailsAdditiveBatchable.shader": {
+			"m_Asset": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": -6138818537155792999 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/ProceduralGeneration/Trails/Shaders/TrailsAnimAlphaBlendedBatchable.shader": {
+			"m_Asset": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": -4424376045461639772 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "8b56d387b6e3547168d1e32629e3c6e5.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": -6138818537155792999 },
+		{ "m_Collection": "cab-18ba74ef620612ef3b40403e96e3da7a", "m_PathID": -4424376045461639772 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

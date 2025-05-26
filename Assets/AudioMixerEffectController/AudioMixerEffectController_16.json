@@ -1,0 +1,70 @@
+{
+	"m_Bypass": false,
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_EffectID": {
+		"m_Data_0_": 827857353,
+		"m_Data_1_": 1284344042,
+		"m_Data_2_": 2439903144,
+		"m_Data_3_": 774944329
+	},
+	"m_EffectName": "Echo",
+	"m_EnableWetMix": false,
+	"m_HideFlags": 3,
+	"m_MixLevel": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Name": "",
+	"m_Parameters": [
+		{
+			"m_GUID": {
+				"m_Data_0_": 40960143,
+				"m_Data_1_": 1280282804,
+				"m_Data_2_": 1220725944,
+				"m_Data_3_": 1570939217
+			},
+			"m_ParameterName": "Param_0"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 3087983408,
+				"m_Data_1_": 1157779584,
+				"m_Data_2_": 2251160454,
+				"m_Data_3_": 883955471
+			},
+			"m_ParameterName": "Param_1"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 795902050,
+				"m_Data_1_": 1134322269,
+				"m_Data_2_": 3444122260,
+				"m_Data_3_": 1596896258
+			},
+			"m_ParameterName": "Param_2"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 3217285352,
+				"m_Data_1_": 1254056335,
+				"m_Data_2_": 402558907,
+				"m_Data_3_": 1354023787
+			},
+			"m_ParameterName": "Param_3"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 2803829842,
+				"m_Data_1_": 1126341131,
+				"m_Data_2_": 1598065059,
+				"m_Data_3_": 3233951915
+			},
+			"m_ParameterName": "Param_4"
+		}
+	],
+	"m_PrefabAsset": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_SendTarget": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 }
+}

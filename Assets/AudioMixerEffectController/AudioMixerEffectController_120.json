@@ -1,0 +1,88 @@
+{
+	"m_Bypass": false,
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_EffectID": {
+		"m_Data_0_": 2433749492,
+		"m_Data_1_": 1299592996,
+		"m_Data_2_": 1236390301,
+		"m_Data_3_": 1515769556
+	},
+	"m_EffectName": "Duck Volume",
+	"m_EnableWetMix": false,
+	"m_HideFlags": 3,
+	"m_MixLevel": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Name": "",
+	"m_Parameters": [
+		{
+			"m_GUID": {
+				"m_Data_0_": 1742231192,
+				"m_Data_1_": 1186085313,
+				"m_Data_2_": 2761563780,
+				"m_Data_3_": 1171474813
+			},
+			"m_ParameterName": "Param_0"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 2253921343,
+				"m_Data_1_": 1294921890,
+				"m_Data_2_": 1199810735,
+				"m_Data_3_": 2582014078
+			},
+			"m_ParameterName": "Param_1"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 2242025599,
+				"m_Data_1_": 1214444192,
+				"m_Data_2_": 4075945602,
+				"m_Data_3_": 1662170362
+			},
+			"m_ParameterName": "Param_2"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1098691460,
+				"m_Data_1_": 1306726809,
+				"m_Data_2_": 1001885860,
+				"m_Data_3_": 1272630829
+			},
+			"m_ParameterName": "Param_3"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1532167743,
+				"m_Data_1_": 1162134011,
+				"m_Data_2_": 4035936151,
+				"m_Data_3_": 1494017403
+			},
+			"m_ParameterName": "Param_4"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 3573656480,
+				"m_Data_1_": 1144995002,
+				"m_Data_2_": 2362628261,
+				"m_Data_3_": 769653341
+			},
+			"m_ParameterName": "Param_5"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 4035640262,
+				"m_Data_1_": 1099000773,
+				"m_Data_2_": 2669801129,
+				"m_Data_3_": 2105623417
+			},
+			"m_ParameterName": "Param_6"
+		}
+	],
+	"m_PrefabAsset": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_SendTarget": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 }
+}

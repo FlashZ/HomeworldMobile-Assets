@@ -1,0 +1,41 @@
+{
+	"m_AssetBundleName": "2128b78a0902f305cc791e4630858a01.bundle",
+	"m_Container": {
+		"Assets/Art/Entities/ExternalModules/Hiigaran/engine_hgn_battlecruiser_02_shared/hgn_battlecruiser_02_engine_01_DIFF.png": {
+			"m_Asset": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": -1984766745453191738 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Entities/ExternalModules/Hiigaran/engine_hgn_battlecruiser_02_shared/hgn_battlecruiser_02_engine_01_GLOW.png": {
+			"m_Asset": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 7203187147827560400 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 1
+		},
+		"Assets/Art/Entities/ExternalModules/Hiigaran/engine_hgn_battlecruiser_02_shared/hgn_battlecruiser_02_engine_01_NORM.png": {
+			"m_Asset": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 2950667183671072912 },
+			"m_PreloadIndex": 1,
+			"m_PreloadSize": 1
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "2128b78a0902f305cc791e4630858a01.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": -1984766745453191738 },
+		{ "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 2950667183671072912 },
+		{ "m_Collection": "cab-49e0baf4eb1ea220b5579ef816377c45", "m_PathID": 7203187147827560400 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}

@@ -1,0 +1,51 @@
+{
+	"m_AssetBundleName": "824b39bc4c748168d0b94bbbd205a4a2.bundle",
+	"m_Container": {
+		"Assets/Art/Shader/DebrisShader/DebrisAlphaShader.shader": {
+			"m_Asset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 3016212248293112763 },
+			"m_PreloadIndex": 6,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Shader/DebrisShader/DebrisAlphaTileableShader.shader": {
+			"m_Asset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 6536904056456949024 },
+			"m_PreloadIndex": 2,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Shader/DebrisShader/DebrisShader.shader": {
+			"m_Asset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": -5908349922155017440 },
+			"m_PreloadIndex": 4,
+			"m_PreloadSize": 2
+		},
+		"Assets/Art/Shader/DebrisShader/ShipTeamDebrisShader.shader": {
+			"m_Asset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": -339705734665968501 },
+			"m_PreloadIndex": 0,
+			"m_PreloadSize": 2
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 0 },
+	"m_Dependencies": [],
+	"m_ExplicitDataLayout": 1,
+	"m_HideFlags": 0,
+	"m_IsStreamedSceneAssetBundle": false,
+	"m_MainAsset": {
+		"m_Asset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 0 },
+		"m_PreloadIndex": 0,
+		"m_PreloadSize": 0
+	},
+	"m_Name": "824b39bc4c748168d0b94bbbd205a4a2.bundle",
+	"m_PathFlags": 0,
+	"m_PrefabAsset": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 0 },
+	"m_PreloadTable": [
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": -339705734665968501 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 17 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 6536904056456949024 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 17 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": -5908349922155017440 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 17 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 3016212248293112763 },
+		{ "m_Collection": "cab-4fa869e31aaf4f1eec826359e0504bfd", "m_PathID": 17 }
+	],
+	"m_RuntimeCompatibility": 1,
+	"m_SceneHashes": {}
+}
